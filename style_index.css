@@ -1,0 +1,34 @@
+form{
+
+    padding-top:159px;
+    text-align:center;
+}
+
+input{
+
+    height:25px;
+    width:384px;
+
+}
+
+input:focus{
+    background-color:thistle;
+}
+
+.info{
+    height: fit-content;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.info a{
+    text-decoration: none;
+    color: black;
+    background-color: blue;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 0.3rem;
+}
